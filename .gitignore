@@ -1,3 +1,5 @@
 # Ignore data files
 *.csv
-data/*
+*.jar
+*.db
+data/**
